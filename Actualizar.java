@@ -42,6 +42,8 @@ public class Actualizar {
         System.out.println("Modificado Corectamente!");
         
         Menu_Principal.desplegarMenu();
+     
+     // la clase permite actualizar la base de datos de MySQL através de NetBeans
         
     
     }
