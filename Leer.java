@@ -1,12 +1,12 @@
 package registro_estudiantes;
 import java.sql.SQLException;
-
+//clase read
 public class Leer {
     public Leer() throws SQLException {
         System.out.println("<< Consultar Registro de Estudiantes >>");
         mostrarResultados();
     }
-    
+    //leer los datos ingresados
     private void mostrarResultados() throws SQLException {
     try{
     ConexionCRUD utilerias = new ConexionCRUD();
