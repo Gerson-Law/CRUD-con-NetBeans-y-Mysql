@@ -31,7 +31,7 @@ Crear() throws SQLException {
   
   utilerias.guardarRegistros(tabla, camposTabla, valorCampos);
   
-  Menu_Principal.desplegarMenu();
+  Menu_Principal.desplegarMenu();//llama el método del menú principal
     }
     
 }
