@@ -8,7 +8,7 @@ public class Estudiante {
     private int edad_estudiante;
    
     public int getId_estudiante(){
-        return id_estudiante;
+        return id_estudiante;//métodos  get  
     }
             
     public void setId_estudiante(int id_estudiante)  {
