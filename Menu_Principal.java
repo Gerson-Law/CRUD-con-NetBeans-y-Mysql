@@ -29,7 +29,7 @@ public class Menu_Principal {
         System.out.println("||  SELECCIONE EL METODO CRUD A UTLIZAR   ||");
         opMenu = opSeleccionada.next();
         
-       yttyytfytfytfytfyutfuy
+       /M/ENU D COSNDOMAE
         switch (opMenu) {
             case "1":
                 Crear create = new Crear();
