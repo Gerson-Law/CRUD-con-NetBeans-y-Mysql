@@ -41,7 +41,7 @@ public class Eliminar {
         if("S".equals(confirmarEliminar)) {
             
             String ValoresCamposNuevos="";
-            
+            //procedimiento para actualizar datos
             utilerias.actualizarEliminarRegistro(tabla, ValoresCamposNuevos, condicion);
             System.out.println("Registro borrado correctamente");
             
