@@ -1,0 +1,12 @@
+CREATE TABLE tb_registro_estudiante(
+    id_estudiante int (11) NOT NULL AUTO_INCREMENT,
+    carnet_estudiante varchar(6) DEFAULT NULL,
+    nom_estudiante varchar (30) DEFAULT NULL,
+    ape_estudiante varchar (30) DEFAULT NULL,
+    edad_estudiante int(3) NOT NULL,
+    PRIMARY KEY (id_estudiante))
+    ENGINE=INNODB AUTO_INCREMENT=1
+
+
+    INSERT INTO tb_registro_estudiante (id_estudiante, carnet_estudiante, nom_estudiante, ape_estudiante, edad_estudiante) VALUES 
+    ('11','23456','Heidy','Mundo','20');
