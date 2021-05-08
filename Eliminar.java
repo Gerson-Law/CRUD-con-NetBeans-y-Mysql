@@ -1,4 +1,4 @@
-
+//clase para eliminar 
 package registro_estudiantes;
 
 import java.sql.SQLException;
