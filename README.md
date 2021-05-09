@@ -1,6 +1,7 @@
 # CRUD con NetBeans y Mysql
 Creación del método CRUD para almacenar registros creados en NetBeans y guardarlos en una base de datos en Mysql
-
+**********************
+Integrantes del  equipo:
 Gerson Alexander Clímaco Canessa         SIS 21 A                  Scrum Maste                                                     
 Heidy Yohamy Mejía Mundo     SIS 21 A              Desarrollador Backend                                              
 Carmen Elena Abarca PérezSIS 21 A             Desarrollador Backend                                                     
