@@ -1,7 +1,7 @@
 package registro_estudiantes;
 
 import java.sql.*;
-
+//Esta clase crea una conexion de NetBeans a MYSQL
 public class ConexionCRUD {
     private final String servidor = "jdbc:mysql://127.0.0.1:3306/bd_registro_estudiante";
     private final String usuario = "root";
